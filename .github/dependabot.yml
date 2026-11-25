@@ -1,5 +1,6 @@
 # Dependabot version updates.
 # Docs: https://docs.github.com/code-security/dependabot/working-with-dependabot/dependabot-options-reference
+# Fork test: touch to trigger Dependabot config pickup.
 version: 2
 updates:
   - package-ecosystem: "gradle"
